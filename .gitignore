@@ -1,0 +1,4 @@
+Terraform.pem
+terraform.tfvars
+.terraform
+.terraform.*
