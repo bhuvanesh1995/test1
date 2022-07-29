@@ -1,6 +1,3 @@
-variable "access_key" {}
-variable "secret_key" {}
-
 variable "vpc_name" {}
 variable "cidr_block" {}
 variable "availability_zone" {}
